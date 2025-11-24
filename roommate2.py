@@ -10,7 +10,7 @@ class Roommate:
         self.college = ""
     
     def display_info(self):
-        print("✨ Roommate Information ✨")
+        print(" Roommate Information ")
         print("--------------------------")
         print(f"Name: {self.name}")
         print(f"Age: {self.age}")
