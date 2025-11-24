@@ -14,7 +14,7 @@ public:
     string college;
 
     void displayInfo() {
-        cout << "✨ Roommate Information ✨" << endl;
+        cout << " Roommate Information " << endl;
         cout << "--------------------------" << endl;
         cout << "Name: " << name << endl;
         cout << "Age: " << age << endl;
